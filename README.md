@@ -33,7 +33,7 @@
 | 🧑‍🤝‍🧑 **SJ Connect** | Peer-led mentorship platform for students | HTML, CSS, JS, Node.js |
 | 🎯 **CareerBridge** | One-stop career launch platform for students & interns | HTML, CSS, JS, APIs |
 
-🔗 Explore all my repositories 👉 [View Projects](https://github.com/shameeritsme21?tab=repositories)
+🔗 Explore all my repositories 👉 [View Projects](https://github.com/Shameer767400?tab=repositories)
 
 ---
 
