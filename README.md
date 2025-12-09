@@ -41,18 +41,6 @@
 - 🎖 Red Hat – OpenShift Applications  
 - 🧾 Cisco Academy – Python, C, OS, HTML, CSS, JavaScript  
 
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shameeritsme21&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shameeritsme21&theme=github-dark-blue" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameeritsme21&layout=compact&theme=github_dark" height="150" />
-</p>
 
 ---
 
