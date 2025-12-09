@@ -46,13 +46,12 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="www.linkedin.com/in/shameer-meerambigari-53009b291" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://github.com/shameeritsme21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <a href="https://www.instagram.com/__s.h.a.m.e.e.r__1.4.3.__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  📞 **Mobile:** +91 70367 98266
 </p>
 
 ---
