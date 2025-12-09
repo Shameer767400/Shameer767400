@@ -52,6 +52,7 @@
   <a href="https://github.com/shameeritsme21" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
+  📞 **Mobile:** +91 70367 98266
 </p>
 
 ---
