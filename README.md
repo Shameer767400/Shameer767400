@@ -5,7 +5,7 @@
 
 ### 🔥 About Me  
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
-- 🏆 Awarded **Best AI-Integrated Project** & won **AI Excellence Cup** at Project Space (Season-8)
+- 🏆 Awarded **Best AI-Integrated Project** & won **AI Excellence Cup** at Project Space (Season-8)  
 - 💡 Passionate about building **AI-powered & full-stack** solutions  
 - 🌱 Currently learning **React + Node.js + Cloud**  
 - 🤝 Open to **collaborations** on Web + AI projects  
@@ -15,7 +15,7 @@
 
 ### 🚀 Tech Stack & Tools
 
-#### 👨💻 Programming & Frameworks
+#### 👨‍💻 Programming & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,fastapi,html,css,bootstrap" height="45"/>
 </p>
@@ -32,7 +32,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | ⚔️ **DebateForge** | **[Award-Winner]** Real-time AI debate platform with voice streaming & logical fallacy detection. | React 18, Node.js, Python, FastAPI, WebSockets, MongoDB, Redis, FAISS |
-| 🧑🤝🧑 **SJ Connect** | Peer-led mentorship platform for students | HTML, CSS, JS, Node.js |
+| 🧑‍🤝‍🧑 **SJ Connect** | Peer-led mentorship platform for students | HTML, CSS, JS, Node.js |
 | 🎯 **CareerBridge** | One-stop career launch platform for students & interns | HTML, CSS, JS, APIs |
 
 🔗 Explore all my repositories 👉 [View Projects](https://github.com/Shameer767400?tab=repositories)
@@ -40,10 +40,26 @@
 ---
 
 ### 🏆 Certifications  
-- 🍃 **MongoDB Certified Associate Developer**
+- 🍃 **MongoDB Certified Associate Developer**  
 - 🎖 Red Hat – OpenShift Applications  
 - 🧾 Cisco Academy – Python, C, OS, HTML, CSS, JavaScript  
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shameer767400&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Shameer767400&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shameer767400&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shameer767400&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
