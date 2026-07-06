@@ -51,7 +51,7 @@
 <!-- Row 1: Streak + Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shameer767400&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shameer767400&theme=radical&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shameer767400&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
 </p>
 
 <!-- Row 2: Languages by repo + Languages by commit -->
