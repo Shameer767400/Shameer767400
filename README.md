@@ -48,14 +48,21 @@
 
 ### 📊 GitHub Stats
 
+<!-- Row 1: Streak + Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shameer767400&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shameer767400&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shameer767400&theme=radical" width="49%"/>
 </p>
 
+<!-- Row 2: Languages by repo + Languages by commit -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shameer767400&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shameer767400&theme=redical&hide_border=true&area=true" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shameer767400&theme=radical" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shameer767400&theme=radical" width="49%"/>
+</p>
+
+<!-- Row 3: Activity Graph (full width) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shameer767400&theme=redical&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
