@@ -1,82 +1,181 @@
-<h1 align="center">Hi 👋, I'm Shameer Meerambigari</h1>
-<h3 align="center">B.Tech AIML Student | Full-Stack Developer | AI Enthusiast 🚀</h3>
+<!-- ═══════════════════════════════════════════════════════ BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shameer767400/Shameer767400/main/banner.svg" width="100%" alt="Shameer Meerambigari Banner"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════ TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FF2D78&center=true&vCenter=true&width=650&height=45&lines=🤖+Building+AI-Powered+Solutions;⚡+Full-Stack+%7C+FastAPI+%7C+React+%7C+Node.js;🏆+Award-Winning+AI+Project+Builder;🔍+RAG+%7C+FAISS+%7C+Vector+Search+Expert;🚀+Open+to+Collaborate+—+Let%27s+Build!" alt="Typing SVG"/>
+</div>
+
+<br/>
 
 ---
 
-### 🔥 About Me  
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
-- 🏆 Awarded **Best AI-Integrated Project** & won **AI Excellence Cup** at Project Space (Season-8)  
-- 💡 Passionate about building **AI-powered & full-stack** solutions  
-- 🌱 Currently learning **React + Node.js + Cloud**  
-- 🤝 Open to **collaborations** on Web + AI projects  
-- 📩 Reach me at: **shameeritsme21@gmail.com**
+## 🧬 About Me
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top">
+
+```yaml
+# shameer.config.yml
+
+name       : Shameer Meerambigari
+degree     : B.Tech — AI & Machine Learning
+role       : Full-Stack Developer & AI Engineer
+
+tech_focus :
+  - RAG / Vector Search (FAISS)
+  - Real-time WebSocket Systems
+  - FastAPI · React · Node.js · MongoDB
+
+awards     :
+  - Best AI-Integrated Project 🏆
+  - AI Excellence Cup — Season 8 🥇
+
+status     : Open to collaborations 🤝
+email      : shameeritsme21@gmail.com
+```
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shameer767400&theme=redical&hide_border=true&area=true&bg_color=050510&color=c850f0&line=ff2d78&point=ffd060&area_color=ff2d7820" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack
 
-#### 👨‍💻 Programming & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,fastapi,html,css,bootstrap" height="45"/>
-</p>
+<div align="center">
 
-#### 🗄️ Databases & Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,git,github,vscode,figma,linux" height="45"/>
-</p>
+**Languages & Frameworks**
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,fastapi,html,css,bootstrap&theme=dark&perline=11" height="46"/>
 
-### 💼 Projects  
+<br/><br/>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| ⚔️ **DebateForge** | **[Award-Winner]** Real-time AI debate platform with voice streaming & logical fallacy detection. | React 18, Node.js, Python, FastAPI, WebSockets, MongoDB, Redis, FAISS |
-| 🧑‍🤝‍🧑 **SJ Connect** | Peer-led mentorship platform for students | HTML, CSS, JS, Node.js |
-| 🎯 **CareerBridge** | One-stop career launch platform for students & interns | HTML, CSS, JS, APIs |
+**Databases & Tools**
 
-🔗 Explore all my repositories 👉 [View Projects](https://github.com/Shameer767400?tab=repositories)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,git,github,vscode,figma,linux&theme=dark&perline=8" height="46"/>
+
+</div>
 
 ---
 
-### 🏆 Certifications  
-- 🍃 **MongoDB Certified Associate Developer**  
-- 🎖 Red Hat – OpenShift Applications  
-- 🧾 Cisco Academy – Python, C, OS, HTML, CSS, JavaScript  
+## 💼 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ DebateForge
+> 🏆 **Award-Winning Project**
+
+Real-time AI debate platform with voice streaming, logical fallacy detection via RAG+FAISS, and WebSocket-powered live sessions.
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-purple?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍🤝‍🧑 SJ Connect
+> 👥 Mentorship Platform
+
+Peer-led student mentorship platform connecting learners with senior mentors for guidance and collaboration.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎯 CareerBridge
+> 🚀 Career Launch Platform
+
+One-stop career launchpad for students and interns — live job APIs, resume builder, and placement resources all in one platform.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/🔗_View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shameer767400?tab=repositories)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Certifications
 
-<!-- Row 1: Streak + Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shameer767400&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shameer767400&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
-</p>
+<div align="center">
 
-<!-- Row 2: Languages by repo + Languages by commit -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shameer767400&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shameer767400&theme=radical" width="49%"/>
-</p>
+[![MongoDB](https://img.shields.io/badge/MongoDB-Certified_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/university/)
+[![RedHat](https://img.shields.io/badge/Red_Hat-OpenShift_Applications-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
+[![Cisco](https://img.shields.io/badge/Cisco_Academy-Python_·_C_·_OS_·_Web-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 
-<!-- Row 3: Activity Graph (full width) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shameer767400&theme=redical&hide_border=true&area=true" width="100%"/>
-</p>
+</div>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/shameer-meerambigari-53009b291" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/__s.h.a.m.e.e.r__1.4.3.__/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Shameer767400&theme=radical&hide_border=true&background=050510&ring=ff2d78&fire=c850f0&currStreakLabel=c850f0&sideLabels=ff2d78&dates=aaaacc&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shameer767400&theme=radical" width="49%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shameer767400&theme=radical" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shameer767400&theme=radical" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shameer767400&theme=redical&hide_border=true&area=true&bg_color=050510&color=c850f0&line=ff2d78&point=ffd060" width="100%"/>
+
+</div>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shameer-meerambigari-53009b291)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__s.h.a.m.e.e.r__1.4.3.__/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shameeritsme21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shameer767400)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&text=Thanks+for+visiting!+✨&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
