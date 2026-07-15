@@ -7,7 +7,7 @@
 
 <!-- ══════════════════════════════════════════════ TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FF2D78&center=true&vCenter=true&width=650&height=45&lines=🤖+Building+AI-Powered+Solutions;⚡+Full-Stack+%7C+FastAPI+%7C+React+%7C+Node.js;🏆+Award-Winning+AI+Project+Builder;🔍+RAG+%7C+FAISS+%7C+Vector+Search+Expert;🚀+Open+to+Collaborate+—+Let%27s+Build!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FF2D78&center=true&vCenter=true&width=650&height=45&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+%7C+FastAPI+%7C+React+%7C+Node.js+%E2%9A%A1;Award-Winning+AI+Project+Builder+%F0%9F%8F%86;RAG+%7C+FAISS+%7C+Vector+Search+Expert+%F0%9F%94%8D;Open+to+Collaborate+%E2%80%94+Lets+Build+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
