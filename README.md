@@ -132,8 +132,8 @@ One-stop career launchpad for students and interns — live job APIs, resume bui
 
 <div align="center">
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-Certified_Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/university/)
-[![RedHat](https://img.shields.io/badge/Red_Hat-OpenShift_Applications-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
+[![MongoDB](https://drive.google.com/file/d/12Q-W9NFwPq4YcV0u_1598rYwc10KJiZ3/view?usp=drive_link)
+[![RedHat](https://drive.google.com/file/d/1IqGQoLv5fhZIqypgV35LfLOKE0j4f2Ua/view?usp=drive_link)
 [![Cisco](https://img.shields.io/badge/Cisco_Academy-Python_·_C_·_OS_·_Web-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 
 </div>
