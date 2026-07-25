@@ -128,18 +128,27 @@ One-stop career launchpad for students and interns — live job APIs, resume bui
 
 ---
 
+---
+
 ## 🏆 Certifications
 
 <div align="center">
 
-[![MongoDB](https://drive.google.com/file/d/12Q-W9NFwPq4YcV0u_1598rYwc10KJiZ3/view?usp=drive_link)
-[![RedHat](https://drive.google.com/file/d/1IqGQoLv5fhZIqypgV35LfLOKE0j4f2Ua/view?usp=drive_link)
-[![Cisco](https://img.shields.io/badge/Cisco_Academy-Python_·_C_·_OS_·_Web-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+<a href="https://drive.google.com/file/d/12Q-W9NFwPq4YcV0u_1598rYwc10KJiZ3/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-Certificate-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certificate"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1IqGQoLv5fhZIqypgV35LfLOKE0j4f2Ua/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/RedHat-Certificate-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat Certificate"/>
+</a>
+
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco_Academy-Python_·_C_·_OS_·_Web-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certificate"/>
+</a>
 
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
